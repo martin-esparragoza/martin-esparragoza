@@ -1,3 +1,6 @@
+so I can track how many random people actually found me
+![](https://komarev.com/ghpvc/?username=JustFast)
+
 ### Hullo
 - [X] C/CPP
 - [X] Zero motivation on big projects?
